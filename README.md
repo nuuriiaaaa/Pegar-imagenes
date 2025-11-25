@@ -13,4 +13,4 @@ Voy a pegar una imagen
 
 
 
-![imagen1](/https://github.com/nuuriiaaaa/Pegar-imagenes/blob/main/Imagenes/batido.webp.jpg)
+![imagen1](https://github.com/nuuriiaaaa/Pegar-imagenes/blob/main/Imagenes/batido.webp.jpg)
